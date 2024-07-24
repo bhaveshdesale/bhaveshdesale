@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhaveshdesale
-- 👀 I’m interested in Android development and Ai 
+- 👀 I’m interested in Android development and Ai
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to participate in different hackathons
 - 📫 How to reach me "https://www.linkedin.com/in/bhavesh-desale-5823b7257"
