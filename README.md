@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on a TrackMyRide an android App Project<br>👯‍♀️ I 'm looking to collaborate with Android Developers<br>🏫 I'm currently learning Jetpack Compose and Android Development<br>👨‍💻 Fun fact Failures are better than not regret
+🔭I'm currently working on a TrackMyRide an android App Project<br>👯‍♀️ I 'm looking to collaborate with Android Developers<br>🏫 I'm currently learning Jetpack Compose and Android Development<br>👨‍💻 Fun fact: Failures are better than not regret
 
 
 ## 🌐 Socials:
