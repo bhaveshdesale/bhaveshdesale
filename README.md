@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on a Pixel Based Weather App Project<br>👯‍♀️ I 'm looking to collaborate with Android Developers<br>🏫 I'm currently learning Jetpack Compose and Android Development<br>👨‍💻 Fun fact: Failures are better than regret
+🔭I'm currently working on a Pixel Based Mood refresher Weather App <br>👯‍♀️ I 'm looking to collaborate with Android Developers<br>🏫 I'm currently learning Jetpack Compose and Android Development<br>👨‍💻 Fun fact: Failures are better than regret
 
 
 ## 🌐 Socials:
