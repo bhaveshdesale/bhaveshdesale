@@ -73,7 +73,7 @@ I'm a Computer Engineering graduate passionate about building scalable web appli
 - 🎉 First merged contribution to **TanStack Router**
   - PR #7924 – Added ESLint 10 peer dependency support for `@tanstack/eslint-plugin-start`
   - https://github.com/TanStack/router/pull/7924
-  ---
+---
 
 ## 🧠 Interests
 
