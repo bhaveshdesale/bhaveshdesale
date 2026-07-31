@@ -8,7 +8,7 @@ I'm a Computer Engineering graduate passionate about building scalable web appli
 
 ## 🚀 About Me
 
-- 💼 Software Engineer Intern @ Coditas
+- 💼 Former Software Engineer Intern @ Coditas
 - 📱 Former Android Developer Intern @ Celebal Technologies
 - 🌱 Currently learning **Spring Boot, System Design, AWS & Microservices**
 - 👨‍💻 Building scalable Full Stack and Android applications
@@ -67,6 +67,13 @@ I'm a Computer Engineering graduate passionate about building scalable web appli
 - JWT, Redux Toolkit & Protected Routes
 
 ---
+
+## 🌍 Open Source Contributions
+
+- 🎉 First merged contribution to **TanStack Router**
+  - PR #7924 – Added ESLint 10 peer dependency support for `@tanstack/eslint-plugin-start`
+  - https://github.com/TanStack/router/pull/7924
+  ---
 
 ## 🧠 Interests
 
