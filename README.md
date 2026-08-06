@@ -12,7 +12,7 @@ I'm a Computer Engineering graduate passionate about building scalable web appli
 - 📱 Former Android Developer Intern @ Celebal Technologies
 - 🌱 Currently learning **System Design, AWS & Microservices**
 - 👨‍💻 Building scalable Full Stack and Android applications
-- 🧠 Passionate about **Backend Engineering, Software Architecture, DSA & Open Source**
+- 🧠 Interest- **Backend Engineering, Software Architecture, DSA & Open Source**
 
 ---
 
