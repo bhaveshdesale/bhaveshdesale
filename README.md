@@ -10,7 +10,7 @@ I'm a Computer Engineering graduate passionate about building scalable web appli
 
 - 💼 Former Software Engineer Intern @ Coditas
 - 📱 Former Android Developer Intern @ Celebal Technologies
-- 🌱 Currently learning **Spring Boot, System Design, AWS & Microservices**
+- 🌱 Currently learning **System Design, AWS & Microservices**
 - 👨‍💻 Building scalable Full Stack and Android applications
 - 🧠 Passionate about **Backend Engineering, Software Architecture, DSA & Open Source**
 
