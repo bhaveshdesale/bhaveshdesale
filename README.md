@@ -51,20 +51,20 @@ I'm a Computer Engineering graduate passionate about building scalable web appli
 - JWT Authentication & Role-Based Access Control
 - React, Node.js, Express.js & MongoDB
 
-### 🌦 Pixel Weather App
-- Pixel-inspired Android weather application
-- Weather API Integration
-- Dynamic weather UI
+### 🤟 SignX – AI-Powered ASL Translator
+- Real-time American Sign Language (ASL) recognition
+- CameraX, MediaPipe & TensorFlow Lite
+- Kotlin, Jetpack Compose, MVVM & Firebase
 
-### 🍽 Food Club
-- Android-based mess management application
-- Firebase Authentication
-- Online meal booking
+### 🩸 BloodConnect – Blood Donation Platform
+- Hackathon-winning blood donation platform
+- Kotlin, Jetpack Compose, Room, Hilt & Firebase
+- Offline-first architecture with donor & recipient workflows
 
-### 🔐 Authentication Template
-- Production-ready authentication system
-- React + TypeScript
-- JWT, Redux Toolkit & Protected Routes
+### 💬 EcoChat – Real-Time Community Messenger
+- Hackathon-winning real-time messaging application
+- CometChat UIKit SDK & Firebase Cloud Messaging
+- One-to-one chats, group messaging & media sharing
 
 ---
 
