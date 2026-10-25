@@ -2,9 +2,12 @@
 
 <div align="center">
 
-Hey there, I'm Bhavesh Desale 👋
-Software Engineer | Full-Stack & Backend Development | Android | Open Source
+# Hey there, I'm Bhavesh Desale 👋
+
+### Software Engineer | Full-Stack & Backend Development | Android | Open Source
+
 I build practical software across web, backend, and Android—and enjoy learning from real-world codebases and contributing to open source.
+
 <p>
   <a href="https://github.com/bhaveshdesale"><img src="https://img.shields.io/badge/GitHub-bhaveshdesale-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/bhavesh-desale-5823b7257/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
@@ -13,16 +16,24 @@ I build practical software across web, backend, and Android—and enjoy learning
 
 </div>
 
-👨‍💻 About Me
+---
+
+## 👨‍💻 About Me
+
 I'm a Computer Engineering graduate interested in building reliable, maintainable software—from user-facing experiences and Android apps to backend APIs and AI-enabled applications.
-- 💼 Former Software Engineer Intern at Coditas
-- 📱 Former Android Developer Intern at Celebal Technologies
-- 🌱 Currently strengthening my skills in backend engineering, system design, cloud fundamentals, and scalable applications
-- 🤝 Interested in open source, developer tools, and practical engineering problems
-- 🧩 I enjoy Data Structures & Algorithms, debugging, and understanding how large codebases work
+
+- 💼 Former **Software Engineer Intern at Coditas**
+- 📱 Former **Android Developer Intern at Celebal Technologies**
+- 🌱 Currently strengthening my skills in **backend engineering, system design, cloud fundamentals, and scalable applications**
+- 🤝 Interested in **open source, developer tools, and practical engineering problems**
+- 🧩 I enjoy **Data Structures & Algorithms, debugging, and understanding how large codebases work**
 - 📍 Pune, India
-🧰 Technologies & Tools
-Languages
+
+---
+
+## 🧰 Technologies & Tools
+
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -33,7 +44,7 @@ Languages
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
 </p>
 
-Frontend
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
@@ -43,7 +54,7 @@ Frontend
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-Backend & APIs
+### Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
@@ -52,7 +63,7 @@ Backend & APIs
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
-Android & Applied AI
+### Android & Applied AI
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
@@ -61,7 +72,7 @@ Android & Applied AI
   <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" />
 </p>
 
-Databases & Developer Tools
+### Databases & Developer Tools
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -73,7 +84,10 @@ Databases & Developer Tools
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-🚀 Featured Projects
+---
+
+## 🚀 Featured Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -115,28 +129,34 @@ Databases & Developer Tools
   </tr>
 </table>
 
-🌍 Open Source Contributions
-I contribute to established projects through focused bug fixes, compatibility updates, and documentation. Here is a snapshot of my public PR activity across external projects (checked 25 October 2026).
+---
+
+
+## 🌍 Open Source Contributions
+
+I contribute to established projects through focused bug fixes, compatibility updates, and documentation.
+
 <p>
   <img src="https://img.shields.io/badge/Open-2-2ea44f?style=flat" alt="2 open PRs" />
   <img src="https://img.shields.io/badge/Merged-3-8957e5?style=flat" alt="3 merged PRs" />
   <img src="https://img.shields.io/badge/Closed%20without%20merge-2-6e7681?style=flat" alt="2 closed without merge" />
 </p>
 
-Organization / Project	Open	Merged	Closed without merge	PRs
-TanStack Router	1	1	0	#8730 — Error Handling guide · #7924 — ESLint 10 peer dependency
-Rocket.Chat	1	0	0	#43115 — XMPP certificate identity verification
-first-contributions	0	1	0	#108094 — Contributor list update
-Roshanjossey/code-contributions	0	1	0	#759 — Added my contributor entry
-shadcn/ui	0	0	1	#11343 — Nested registry build paths
-piyushgarg-dev/piyushgargdev-nextjs	0	0	1	#2113 — Social icon styling and hover effect
-Total	2	3	2	7 external-project PRs
+| Organization / Project | Open | Merged | Closed without merge | PRs |
+|---|---:|---:|---:|---|
+| [TanStack Router](https://github.com/TanStack/router) | 1 | 1 | 0 | [#8730 — Error Handling guide](https://github.com/TanStack/router/pull/8730) · [#7924 — ESLint 10 support](https://github.com/TanStack/router/pull/7924) |
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | 1 | 0 | 0 | [#43115 — XMPP certificate verification](https://github.com/RocketChat/Rocket.Chat/pull/43115) |
+| [first-contributions](https://github.com/firstcontributions/first-contributions) | 0 | 1 | 0 | [#108094 — Contributors list](https://github.com/firstcontributions/first-contributions/pull/108094) |
+| [Roshanjossey/code-contributions](https://github.com/Roshanjossey/code-contributions) | 0 | 1 | 0 | [#759 — Contributor entry](https://github.com/Roshanjossey/code-contributions/pull/759) |
+| [shadcn/ui](https://github.com/shadcn-ui/ui) | 0 | 0 | 1 | [#11343 — Nested registry build paths](https://github.com/shadcn-ui/ui/pull/11343) |
+| [piyushgarg-dev/piyushgargdev-nextjs](https://github.com/piyushgarg-dev/piyushgargdev-nextjs) | 0 | 0 | 1 | [#2113 — Social icon styling](https://github.com/piyushgarg-dev/piyushgargdev-nextjs/pull/2113) |
+| **Total** | **2** | **3** | **2** | **7 external-project PRs** |
 
 
-- ✅ Merged: ESLint 10 peer-dependency support in TanStack Router, plus contributor-list updates in first-contributions and code-contributions.
-- 🔎 Open: A TanStack Router Error Handling guide and an XMPP certificate identity-verification fix for Rocket.Chat.
-- 📌 PR status can change; the links above show the latest status on GitHub. This summary excludes PRs in my own repositories so it focuses on external-project contributions.
-📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
   <a href="https://github.com/bhaveshdesale">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhaveshdesale&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bhavesh's GitHub stats" />
@@ -148,15 +168,23 @@ Total	2	3	2	7 external-project PRs
   <img src="https://streak-stats.demolab.com?user=bhaveshdesale&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-🎯 Interests
+---
+
+## 🎯 Interests
+
 - Backend engineering, REST API design, and authentication
 - Data Structures & Algorithms
 - System design and maintainable software architecture
 - Android development and on-device AI
 - Developer tooling and open-source collaboration
 - Building practical AI-enabled applications with appropriate safeguards
-🤝 Connect
+
+---
+
+## 🤝 Connect
+
 I'm happy to connect with engineers, open-source maintainers, and teams building useful products.
+
 <p>
   <a href="https://www.linkedin.com/in/bhavesh-desale-5823b7257/"><img src="https://img.shields.io/badge/LinkedIn-Bhavesh%20Desale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://bhavesh-pixel-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-2bbc8a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -165,6 +193,6 @@ I'm happy to connect with engineers, open-source maintainers, and teams building
 
 <div align="center">
 
-
 ⭐ Thanks for stopping by—feel free to explore my repositories and contributions!
+
 </div>
