@@ -14,6 +14,13 @@ I build practical software across web, backend, and Android—and enjoy learning
   <a href="https://bhavesh-pixel-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-2bbc8a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=bhaveshdesale&label=Profile%20Views&color=6c5ce7&style=flat"
+    alt="Profile Views"
+  />
+</p>
+
 </div>
 
 ---
